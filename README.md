@@ -9,7 +9,6 @@ SoundWave is a web application that allows you to convert text into speech. You 
 - Enter text and have it converted into speech.
 - Choose from various available voices.
 - Adjust the pitch and rate of the speech.
-- A clean and user-friendly interface.
 
 ## Getting Started
 
